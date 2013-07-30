@@ -1,0 +1,7 @@
+{
+	"name": "cluster",
+	"main": "index.js",
+	"dependencies": {
+		"underscore": "*"
+	}
+}
