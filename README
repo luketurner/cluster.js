@@ -1,0 +1,8 @@
+Clustering implementations. Sample use:
+
+	var cljs = require('clusterjs');
+	cljs.kmeans.init(jsonData);
+	console.log(cljs.kmeans.getMeans());
+	console.log(cljs.kmeans.getClusters());
+
+Fur further documentation (what, you want more than five lines?) look at the algo implementations.
